@@ -1,3 +1,7 @@
+# ⛔️ **DEPRECATED** — do not use for new projects
+
+See [our current docs](https://docs.apostrophecms.org/)
+
 # apostrophe-open-graph
 
 [Open Graph](https://ogp.me/) for [ApostropheCMS](https://apostrophecms.com).
